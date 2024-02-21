@@ -24,7 +24,7 @@ h1 {
 
 
       a {
-        color: #fff;
+        color: plum;
         text-decoration: none;
       }
       .pg-footer {
@@ -112,9 +112,7 @@ h1 {
           background-color: #fffff2
           color: #00bef0;
       }
-      .button:last-of-type {
-          margin-right: 0;
-      }
+   
       .footer-call-to-action-button {
           background-color: #6fa8dc;
           border-radius: 21px;

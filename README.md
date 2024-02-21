@@ -1,7 +1,5 @@
 # JS-Fundamentals-III---To-Do-List
 
-# JS-Fundamentals-III---To-Do-List
-
 ## Overview
 
 This project is a basic web application that allows a user to add/remove/cross out items in a to-do list. You can cross out an item by click on an already existing item, or remove an item by double clicking it.
