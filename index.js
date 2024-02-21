@@ -8,4 +8,12 @@ addToDoButton.addEventListener('click', function() {
     listItem.innerText = inputField.value;
     toDoBox.appendChild(listItem);
     inputField.value = "";
+
+    listItem.addEventListener('dblclick', function() {
+        toDoBox.removeChild(listItem);
+    })
 })
+
+// listItem.addEventListener('dblclick', function() {
+//     toDoBox.removeChild(listItem);
+// })
