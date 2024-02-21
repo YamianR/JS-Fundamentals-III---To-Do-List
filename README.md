@@ -17,7 +17,11 @@ This project is a basic web application that allows a user to add/remove/cross o
 3. Click on a task to mark it as complete
 4. Double click on a task to remove it.
 
+<<<<<<< HEAD
 ## Styling 
+=======
+## Styling
+>>>>>>> c9cf1ddddc4c2765e0436d0cb10e93df30d59829
 
 - The background color of the page is set to `#6FA8DC`.
 - The main content is contained within a box with a background color of `#fffaed` and a subtle shadow.
@@ -33,4 +37,8 @@ This project is a basic web application that allows a user to add/remove/cross o
 
 ## Survery
 
+<<<<<<< HEAD
 Do not worry about this.
+=======
+Do not worry about this.
+>>>>>>> c9cf1ddddc4c2765e0436d0cb10e93df30d59829
