@@ -9,11 +9,11 @@ addToDoButton.addEventListener('click', function() {
     toDoBox.appendChild(listItem);
     inputField.value = "";
 
+    listItem.addEventListener('click', function() {
+        listItem.style.textDecoration = "line-through";
+    })
+
     listItem.addEventListener('dblclick', function() {
         toDoBox.removeChild(listItem);
     })
 })
-
-// listItem.addEventListener('dblclick', function() {
-//     toDoBox.removeChild(listItem);
-// })
